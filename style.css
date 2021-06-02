@@ -1,5 +1,5 @@
 html {
-  background: url(images/steve.jpeg) no-repeat center center fixed;
+  background: url(steve.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -8,10 +8,10 @@ h2,
 h3,
 p,
 table {
-  background-color:#4030C2;
-  color:#7B83F9;
+  background-color:#4030c2;
+  color:#7b83f9;
   text-align: center;
-  font-family: sans-serif;
+  font-family: 'Times New Roman', serif;
   border: 1px solid white;
   outline-style: solid;
   outline-width: thin;
@@ -42,9 +42,5 @@ p {
 }
 
 * {
-  background-color:#1E1284 ;
-}
-
-p {
-  font-family: 'Times New Roman', serif;
+  background-color:#1e1284;
 }
