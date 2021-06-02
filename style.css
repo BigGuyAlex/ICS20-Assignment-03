@@ -8,8 +8,8 @@ h2,
 h3,
 p,
 table {
-  background-color:#4030c2;
-  color:#7b83f9;
+  background-color: #4030c2;
+  color: #7b83f9;
   text-align: center;
   font-family: 'Times New Roman', serif;
   border: 1px solid white;
@@ -42,5 +42,5 @@ p {
 }
 
 * {
-  background-color:#1e1284;
+  background-color: #1e1284;
 }
